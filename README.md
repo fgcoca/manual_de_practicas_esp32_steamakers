@@ -2,6 +2,8 @@
 
 Traducción de los correspondientes documentos en Catalán
 
+![Imagen ESP32 y paneles de catón](./img/portada.png)
+
 ## Archivos pdf
 
 * [Manual de prácticas ESP32 STEAMakers](pdf/manual_de_practicas_esp32_steamakers.pdf)
